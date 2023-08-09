@@ -1,6 +1,6 @@
 import random
 
-# List of options for the computer
+# List of options for the computer to chose from
 options = ["rock", "paper", "scissors"]
 
 # Function to play the game
@@ -28,7 +28,7 @@ def play_game():
         else:
             return "Computer wins!"
     else:
-        return "Invalid choice! Please choose rock, paper, or scissors."
+        return "Invalid! Please choose either rock, paper, or scissors."
 
 # Main game loop
 while True:
