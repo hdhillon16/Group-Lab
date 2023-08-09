@@ -1,0 +1,9 @@
+"""
+Project:
+Rock, Paper, Scissors Game
+
+Scope:
+This project involves creating a "Rock, Paper Scissors" game. Users can play against a computer opponent. The app will be developed using Python. The main features include player choice, random computer moves, and choosing a winner based off of their input. The game will be easy to use with a simple interface.
+
+GitHub Repository: Group Lab
+"""
